@@ -12,3 +12,5 @@
         2   4
 
  root 7'dir. root'un sağında 8 bulunur. Solunda 5 bulunur.
+git commit -m "index.html sayfasının iskeleti oluşturuldu."
+
